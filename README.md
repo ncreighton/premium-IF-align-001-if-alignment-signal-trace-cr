@@ -1,0 +1,2 @@
+# premium-IF-align-001-if-alignment-signal-trace-cr
+You're tracking multiple alignment signals across your IF stack, but your notes are scattered across tabs, docs, and half-finished spreadsheets. The IF Alignment &amp; Signal Trace Craft Studio ends the chaos—giving you one unified studio to map, craft, and trace every signal back to core alignment.  This isn't just another Notion template. It's a purp
